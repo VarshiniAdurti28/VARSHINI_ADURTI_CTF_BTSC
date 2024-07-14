@@ -1,19 +1,15 @@
-༎ࠇउࠈഈ഍
-Є഍൤撆
-༂
-ЀЎ਌ਏ
-밎
-ਊఎ
-༊ڼʼ밴
-Ȃ�
-ఎꬎฎ༅
-܁एཛ഍ฎฎญชฎฎ
-ਊ฀̏਍ഌ
-ఊ؀༏ጊጅ
-ࠀČફ，�ฎฌ먍਍ฌí먍਍ਏชਏ
-എਏഎਊఎชೡਏฎ഍ఊ༎ช먍໿
-ຫ਌ʼԂ઼밊㐂ໞఎꬎ밎Ȃ�༊및Ȃ�ਊ໬ఏഊഊഎ໭ʼԂഎ਋ఊഎฎฌຫ਌ਏ밎Ȃꬅꮫฎฎഋญફഊญฎഊ਎༎૚༎ชญਏ਎༊ਊ਍�ଊฌࠈਆ଀ࠄ瘄
+
 
 
 U This This Is Strike Shoot Pick Up A.  OA van A
 Wow Yes
+
+
+I first took this file and used a hex to UTF-16 translator in Google.
+That gave me a long string of characters belonging to various languages of the world
+
+This is the string I got:
+༎ࠇउࠈഈ഍ࠈഈЄ഍൤撆༂ЀЎ਌ਏ밎ਊఎ༊ڼʼ밴Ȃ�ฎฌຫชఎꬎฎ༅܁एཛ഍ฎฎญชฎฎਊ฀̏਍ഌఊ؀༏ጊጅ
+ࠀČફ，�ฎฌ먍਍ฌí먍਍ਏชਏഎਏഎਊఎชೡਏฎ഍ఊ༎ช먍໿ຫ਌ʼԂ઼밊㐂ໞఎꬎ밎Ȃ�༊및Ȃ�ਊ໬ఏഊഊഎ໭ʼԂഎ਋ఊഎฎฌຫ਌ਏ밎Ȃꬅꮫฎฎഋญફഊญฎഊ਎༎૚༎ชญਏ਎༊ਊ਍�ଊฌࠈਆ଀ࠄ瘄
+
+And hence after translating using google translate, this is the flag I got
